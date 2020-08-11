@@ -1,0 +1,12 @@
+.boxColor{
+    padding: 20px;
+    min-height: 100px;
+    border: 1px solid black;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.boxColor span{
+    display: block;
+    text-align: center;
+}

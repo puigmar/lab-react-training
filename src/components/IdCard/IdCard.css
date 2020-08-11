@@ -1,0 +1,28 @@
+.card{
+    display: flex;
+    padding: 8px;
+    border: 1px solid black;
+    margin-bottom: 30px;
+}
+
+.card_content{
+    padding-left: 10px;
+}
+
+.card_content dl{
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 0 8px;
+    font-size: 1.6rem;
+
+}
+
+.card_content dt{
+    font-weight: 800;
+    margin: 0 10px 0 0;
+}
+
+.card_content dd{
+    margin: 0;
+    padding: 0;
+}
